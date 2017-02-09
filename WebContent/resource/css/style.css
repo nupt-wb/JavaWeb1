@@ -1,0 +1,12 @@
+p{
+	color:red;
+}
+
+body{
+	color:#FF9600;
+	font-family:ºÚÌå;
+	font-size:18pt;
+	background-image:url("../../resource/img/a.png");
+	background-repeat:repeat-y;
+	nackground-attachment:fixed;
+}
